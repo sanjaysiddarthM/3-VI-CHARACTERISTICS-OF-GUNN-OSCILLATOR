@@ -17,7 +17,7 @@ Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Va
 The Gunn oscillator is base on negative differential conductivity effect in bulk semi- conductors. Gunn diode has two conduction bands separated by an energy gap (greater than thermal agitation energies). When an electron is moved to the satellite energy band, it will have negative differentialmobility. This produces the negative resistance required for the oscillations.
 In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this case the oscillationfrequency is determined by cavity dimension than by diode itself. Although Gunn oscillator can be amplitude-modulated with the bias voltage, separate PIN modulator through is used in this experiment. A square wave modulating signal is applied through the modulator on to the microwave carrier signal.
 
-<img width="445" height="304" alt="image" src="https://github.com/user-attachments/assets/42d87349-4aa0-4730-bb70-9b4897411b7d" />
+<img width="426" height="249" alt="image" src="https://github.com/user-attachments/assets/a9ec9bf9-7a9a-4e24-af40-d8eb9a3ae61d" />
 
 **Procedure:**
 
@@ -53,14 +53,14 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
-**B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+**B.Observation:** (Include Tabulation Part)
+<img width="594" height="351" alt="image" src="https://github.com/user-attachments/assets/0f1d0420-f29b-443f-8f26-6cb68557fa85" />
 
-**C.Analysis of Results: (Write your own)**
+**C.Analysis of Results:**
+The I–V curve of the Gunn diode clearly shows a region where current decreases as voltage increases, confirming the negative differential resistance needed for microwave oscillation. The positions of minima on the slotted line verify proper cavity tuning and frequency generation. For the PIN modulator, the difference in dB readings between maximum and minimum signal levels gives the modulation depth, confirming effective amplitude modulation of the microwave signal.
 
-(Include sample calculations/Display/plot/typical graph)
-
-**D.Conclusions: (Write  your Own)**
-
+**D.Conclusions:**
+The I–V characteristics of the Gunn diode were successfully studied, and the region of negative differential resistance was clearly observed. The Gunn oscillator operated in its stable region, confirming its ability to generate microwave oscillations. The modulation depth of the PIN diode was also determined using changes in detected power levels. This experiment verifies the negative resistance behavior of the Gunn diode and shows how a PIN modulator effectively controls the amplitude of the microwave signal.
 **Precautions:**
 
 •	Check the connections before switching on the kit.
@@ -68,4 +68,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
-
+The VI characteristics of the Gunn diode were obtained, and the negative differential resistance region was clearly identified. The oscillation frequency was verified through slotted line measurements. The modulation depth of the PIN diode was successfully determined from the difference in detected power levels.
